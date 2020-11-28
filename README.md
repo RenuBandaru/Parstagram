@@ -23,7 +23,11 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+1. Showing the User can stay logged in accross restarts and user can log out.
+
 <img src='https://i.imgur.com/YUIvPCX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />!
+
+2. User can view comments on post and can add a new comment.
 
 
 # Parstagram - Part I
