@@ -29,6 +29,8 @@ Here's a walkthrough of implemented user stories:
 
 2. User can view comments on post and can add a new comment.
 
+<img src='https://i.imgur.com/XAUlcwa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />!
+
 
 # Parstagram - Part I
 
